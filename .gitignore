@@ -1,0 +1,18 @@
+# Java / Maven
+target/
+*.class
+*.log
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+application-local.yml
